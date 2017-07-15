@@ -19,13 +19,13 @@
   * [3.1 参数定义](san-3001-shu-ju-jie-gou-ji-chang-liang-ding-yi/31-can-shu-ding-yi.md)
 * [四、事件说明](si-3001-shi-jian-shuo-ming.md)
   * [4.1 基本流程](si-3001-shi-jian-shuo-ming/41-ji-ben-liu-cheng.md)
-  * [事件Action类型](san-3001-shu-ju-jie-gou-ji-chang-liang-ding-yi/shi-jianaction-lei-xing.md)
+  * [4.2事件Action类型](san-3001-shu-ju-jie-gou-ji-chang-liang-ding-yi/shi-jianaction-lei-xing.md)
 * [五、函数说明](han-shu-shuo-ming.md)
-  * 5.1 初始化及资源释放
-  * 5.2 视频会议控制
-  * 5.3 视频控制
-  * 5.4 音频控制
-  * 5.5 消息发送相关函数
+  * [5.1 初始化及资源释放](han-shu-shuo-ming/51-chu-shi-hua-ji-zi-yuan-shi-fang.md)
+  * [5.2 视频会议控制](han-shu-shuo-ming/52-shi-pin-hui-yi-kong-zhi.md)
+  * [5.3 视频控制](han-shu-shuo-ming/53-shi-pin-kong-zhi.md)
+  * [5.4 音频控制](han-shu-shuo-ming/54-yin-pin-kong-zhi.md)
+  * [5.5 消息发送相关函数](han-shu-shuo-ming/55-xiao-xi-fa-song-xiang-guan-han-shu.md)
   * [5.6 其他](han-shu-shuo-ming/56-qi-ta.md)
 * [（附录一）错误代码参考](cuo-wu-dai-ma-can-kao.md)
 
