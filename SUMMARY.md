@@ -16,7 +16,8 @@
   * [2.3 编程要点](chapter1/23-bian-cheng-yao-dian.md)
   * 2.4 服务器概述
 * [三、数据结构及常量定义](san-3001-shu-ju-jie-gou-ji-chang-liang-ding-yi.md)
-  * 3.1 参数定义
+  * [3.1 参数定义](san-3001-shu-ju-jie-gou-ji-chang-liang-ding-yi/31-can-shu-ding-yi.md)
+  * [事件Action类型](san-3001-shu-ju-jie-gou-ji-chang-liang-ding-yi/shi-jianaction-lei-xing.md)
 * [四、事件说明](si-3001-shi-jian-shuo-ming.md)
   * [4.1 基本流程](si-3001-shi-jian-shuo-ming/41-ji-ben-liu-cheng.md)
 * [五、函数说明](han-shu-shuo-ming.md)
