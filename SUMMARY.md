@@ -13,6 +13,7 @@
 * [二、编程指南](chapter1.md)
   * [2.1 P2P会议模块 Android 端SDK概述](chapter1/21-p2phui-yi-mo-kuai-android-duan-sdk-gai-shu.md)
   * [2.2 API调用顺序](chapter1/22-han-shu-diao-yong-shun-xu.md)
+  * [2.3 编程要点](chapter1/23-bian-cheng-yao-dian.md)
 * [三、数据结构及常量定义](san-3001-shu-ju-jie-gou-ji-chang-liang-ding-yi.md)
 * [四、事件说明](si-3001-shi-jian-shuo-ming.md)
 * [五、函数说明](han-shu-shuo-ming.md)
