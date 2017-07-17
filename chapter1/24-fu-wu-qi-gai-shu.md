@@ -4,7 +4,7 @@ P2P会议模块SDK使用pgConnectSvr P2P服务器，请参考pgConnectSvr P2P服
 
 P2P服务器支持的操作系统：
 
-1\) Windows XP/2003/VISTA/WIN7/2008/WIN8
+1\) Windows XP/2003/VISTA/WIN7/2008/WIN8 32/64
 
 2\)Ubuntu 32/64
 
