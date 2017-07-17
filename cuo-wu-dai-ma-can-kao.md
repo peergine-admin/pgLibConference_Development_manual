@@ -14,11 +14,11 @@
 | PG\_ERR\_Network | 11 | 网络错误 |
 | PG\_ERR\_Timeout | 12 | 操作超时 |
 | PG\_ERR\_Reject | 13 | 拒绝访问 |
-| PG\_ERR\_Busy  | 14 | 系统正忙 |
+| PG\_ERR\_Busy | 14 | 系统正忙 |
 | PG\_ERR\_Opened | 15 | 已经打开 |
 | PG\_ERR\_Closed | 16 | 已经关闭 |
-| PG\_ERR\_Exist  | 17 | 对象或资源已经存在 |
-| PG\_ERR\_NoExist| 18 | 对象或资源不存在 |
+| PG\_ERR\_Exist | 17 | 对象或资源已经存在 |
+| PG\_ERR\_NoExist | 18 | 对象或资源不存在 |
 | PG\_ERR\_NoSpace | 19 | 没有空间了 |
 | PG\_ERR\_BadType | 20 | 错误的类型 |
 | PG\_ERR\_CheckErr | 21 | 检查Peer对象信息和状态错误 |
@@ -26,8 +26,6 @@
 | PG\_ERR\_BadDomain | 23 | 错误的域 |
 | PG\_ERR\_NoData | 24 | 没有数据 |
 | PG\_ERR\_Unknown | 225 | 未知错误 |
-
-
 
 
 

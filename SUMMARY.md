@@ -10,6 +10,7 @@
   * [1.3 关于穿透科技](13.md)
   * [1.4 技术支持](14-ji-zhu-zhi-chi.md)
   * [1.5 版权申明](15-ban-quan-shen-ming.md)
+  * [1.6 软件许可](15-ruan-jian-xu-ke.md)
 * [二、编程指南](chapter1.md)
   * [2.1 P2P会议模块 Android 端SDK概述](chapter1/21-p2phui-yi-mo-kuai-android-duan-sdk-gai-shu.md)
   * [2.2 API调用顺序](chapter1/22-han-shu-diao-yong-shun-xu.md)
