@@ -13,6 +13,7 @@
   * [1.6 软件许可](15-ruan-jian-xu-ke.md)
 * [二、编程指南](chapter1.md)
   * [2.1 P2P会议模块 Android 端SDK概述](chapter1/21-p2phui-yi-mo-kuai-android-duan-sdk-gai-shu.md)
+    * [2.2.1 SDK目录安排](chapter1/21-p2phui-yi-mo-kuai-android-duan-sdk-gai-shu/221-sdkmu-lu-an-pai.md)
   * [2.2 API调用顺序](chapter1/22-han-shu-diao-yong-shun-xu.md)
   * [2.3 编程要点](chapter1/23-bian-cheng-yao-dian.md)
   * [2.4 服务器概述](chapter1/24-fu-wu-qi-gai-shu.md)
